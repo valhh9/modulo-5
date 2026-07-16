@@ -1,0 +1,8 @@
+Una plataforma tecnológica que promueve la participación ciudadana necesita una base de datos para almacenar la información de forma organizada.
+La autenticación de usuarios permite controlar quién puede acceder a determinadas funciones.
+También ayuda a proteger la información y evitar accesos no autorizados.
+Es importante cuidar los datos personales para evitar riesgos de privacidad.
+No se deben compartir contraseñas ni información sensible de los usuarios.
+La protección de la información genera confianza y mejora la seguridad del sistema.
+Además, permite mantener un registro ordenado de las actividades realizadas.
+Todo esto hace que la plataforma sea más confiable, segura y útil para la comunidad.
